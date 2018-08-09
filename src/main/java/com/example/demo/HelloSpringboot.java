@@ -12,7 +12,7 @@ public class HelloSpringboot {
 
     @RequestMapping("/")
     public String say() {
-        System.out.println("Hello springboot");
+        System.out.println("Hello springboot9");
         return "hello,this is a springboot demo";
     }
 }
